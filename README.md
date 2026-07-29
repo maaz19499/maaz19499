@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am a **Generative AI Engineer** with 4+ years of experience building and deploying enterprise-grade AI solutions. I specialize in building **LLM-powered systems, Agentic AI frameworks, and Retrieval-Augmented Generation (RAG) pipelines** that automate workflows and improve business efficiency.<br><br>💡 I enjoy taking AI solutions from **Proof of Concept → Production**.
+<br>I am a **Generative AI Engineer** with 5 years of experience building and deploying enterprise-grade AI solutions. I specialize in building **LLM-powered systems, Agentic AI frameworks, and Retrieval-Augmented Generation (RAG) pipelines** that automate workflows and improve business efficiency.<br><br>💡 I enjoy taking AI solutions from **Proof of Concept → Production**.
 
 
 ## 🌐 Socials:
