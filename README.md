@@ -1,4 +1,11 @@
 # 💫 About Me:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="maaz19499's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <br>I am a **Generative AI Engineer** with 5 years of experience building and deploying enterprise-grade AI solutions. I specialize in building **LLM-powered systems, Agentic AI frameworks, and Retrieval-Augmented Generation (RAG) pipelines** that automate workflows and improve business efficiency.<br><br>💡 I enjoy taking AI solutions from **Proof of Concept → Production**.
 
 
